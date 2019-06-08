@@ -1,0 +1,20 @@
+<!-- 
+    
+    
+    
+position phải có top và left
+relative : hình gốc
+absolute: hình đè lên nó
+z-index :+ quy định cái nào đè lên cái nào (số 1 và số 2 quy định cái 2 sẽ đè lên cái 1, cứ thế cho cái số 3)
+         + trong 1 div chỉ có 1 cái z-index số đó, 2 số trùng nhau sẽ ko hiển thị 
+float: left ( 2 div nằm ngang nhau trong cùng 1 hàng)       
+justify-content: center ; chỉnh item ở giữa theo chiều dọc
+align-items: center;  chỉnh item ở giữa theo chiều ngang      
+        
+        
+        
+
+
+
+
+        -->
