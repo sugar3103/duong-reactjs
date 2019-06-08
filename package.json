@@ -1,0 +1,20 @@
+{
+    "name": "duong-reactjs",
+    "version": "1.0.0",
+    "description": "Lớp Java Script ReactJS thầy Tài",
+    "main": "index.js",
+    "scripts": {
+        "start": "parcel index.html",
+        "build": "parcel build index.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sugar3103/duong-reacjs.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sugar3103/duong-reacjs/issues"
+    },
+    "homepage": "https://github.com/sugar3103/duong-reacjs#readme"
+}
